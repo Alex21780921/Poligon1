@@ -1,6 +1,10 @@
+Команды git
+необходимые для работы
 git init
 git add
 git commit Alex21780921
 
 git push
 git clone
+
+
