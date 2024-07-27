@@ -6,6 +6,7 @@ git init
 git commit Alex21780921
 
 git push
+git pull
 git clone
 git branch
 
